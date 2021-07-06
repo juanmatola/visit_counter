@@ -2,7 +2,7 @@
 class Connection{
 
     private $server = "localhost";
-    private $bd = "visit_counter";
+    private $bd = "visit_counter_db";
     private $user = 'root';
     private $pass = '';
     private $conection;
